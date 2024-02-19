@@ -14,3 +14,12 @@
 ![image](https://github.com/SunitraS/Simple-Reserve-Table-Website/assets/160318101/1294ecc9-9eac-42c6-b9a9-ffe1b946139a)
 
 
+Admin Page
+![image](https://github.com/SunitraS/Simple-Reserve-Table-Website/assets/160318101/7fcadd57-048b-4584-87e1-450b21fd512e)
+
+Can edit/delete user
+![image](https://github.com/SunitraS/Simple-Reserve-Table-Website/assets/160318101/7817e336-07fb-449d-91ba-a00cc4b1b355)
+![image](https://github.com/SunitraS/Simple-Reserve-Table-Website/assets/160318101/51ccec90-ed5a-4d5d-b454-a5c2d1aeb0ba)
+
+
+![image](https://github.com/SunitraS/Simple-Reserve-Table-Website/assets/160318101/18d79745-e455-4727-9eb5-1668831fd289)

@@ -18,7 +18,7 @@
     <table id="mytable" class="table table-bordered table-striped">
         <thead>
             <th>#</th>
-            <th>Table </th>
+            <th>Table ID</th>
             <th>Name</th>
             <th>Date</th>
             <th>Time</th>

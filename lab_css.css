@@ -1,0 +1,101 @@
+body {
+  font-family: 'Mali', sans-serif;
+  background-attachment: fixed;
+  background-image: url("img/p6.jpg");
+}
+.signup a{
+  color: #fdfdfd;
+}
+.forgot-pass a{
+  color: #fdfdfd;
+}
+form {
+  background-color:rgba(116, 116, 116, 0.186);
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  backdrop-filter: blur(7px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 50px 35px;
+}
+
+.field {
+  width: 100%;
+  height: 60px;
+  position: relative;
+}
+
+.field input {
+  width: 86%;
+  height: 80%;
+  padding-left: 50px;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  outline: none;
+  border: none;
+  border-radius: 30px;
+  background-color: #eff0f3;
+  box-shadow: inset 1px 1px 8px #c7c7c773,
+    inset 2px 2px 3px rgba(0, 0, 0, 0.255);
+  cursor: pointer;
+}
+
+.field img {
+  position: absolute;
+  top: 42%;
+  transform: translateY(-50%);
+  left: 15px;
+}
+
+.submit-btn {
+  text-align: center;
+}
+
+.submit-btn input {
+  width: 100%;
+  height: 50px;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 30px;
+  background-color: #fffefe;
+  font-size: 18px;
+  font-weight: 500;
+  box-shadow: -2px -2px 5px #dddddd70, 2px 2px 4px rgba(61, 61, 61, 0.618);
+  margin-bottom: 40px;
+  cursor: pointer;
+}
+
+.forgot-pass {
+  margin: 10px;
+  margin-left: 70%;
+}
+
+h1{
+  color: #d8a62b;
+}
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.social {
+  margin-left: 20px;
+  display: flex;
+}
+
+.social div {
+  width: 150px;
+  border-radius: 5px;
+  padding: 8px 10px 10px 5px;
+  background-color: rgba(255, 255, 255, 0.645);
+  color: #000000;
+  text-align: center;
+  cursor: pointer;
+}
+.social .fb {
+  margin-left: 25px;
+}

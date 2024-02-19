@@ -1,0 +1,70 @@
+
+.container-fluid{
+    max-width: 84%;
+    margin-top: 50px;
+}
+
+.cash{
+    padding: 30px;
+    margin-bottom: 20px;
+    margin: 5px;
+}
+
+.bar{
+    float: right;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 100px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-right: -70px;
+}
+
+.bar1{
+    float: left;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 200px;
+    margin-bottom: 130px;
+    margin-left: -50px;
+}
+
+.bar-water{
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.exit{
+    margin-left: 50px;
+}
+
+.b1{
+    margin-bottom: 25px;
+}
+
+.b2{
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+
+#rotate{
+    vertical-align:top;
+      transform:rotate(7deg);
+    -ms-transform:rotate(90deg); /* IE 9 */
+    -moz-transform:rotate(90deg); /* Firefox */
+    -webkit-transform:rotate(90deg); /* Safari and Chrome */
+    -o-transform:rotate(90deg); /* Opera */
+}
+
+#rotate1{
+    vertical-align:top;
+      transform:rotate(7deg);
+    -ms-transform:rotate(90deg); /* IE 9 */
+    -moz-transform:rotate(90deg); /* Firefox */
+    -webkit-transform:rotate(90deg); /* Safari and Chrome */
+    -o-transform:rotate(90deg); /* Opera */
+}
